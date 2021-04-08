@@ -19,3 +19,5 @@ for i in range(0,7):
     cv2.waitKey(0)
 
 cv2.destroyAllWindows() 
+
+#checking the commit 2
